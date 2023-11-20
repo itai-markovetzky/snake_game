@@ -26,7 +26,7 @@ This Snake Game is a simple graphical game built using Python's Turtle module. I
    git clone https://github.com/your-username/snake-game.git
    cd snake-game
 2. Run the game:
-  ``bash
+   ``
    python snake_game.py``
 
 ## Gameplay
